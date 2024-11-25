@@ -451,6 +451,11 @@ input[type="submit"]:focus {
     color: #d40004;
     text-decoration-color: #d40004;
 }
+/*Sidebar Update Released*/
+.sidebar .widget .wp-block-file .wp-block-file__button {
+    background-color: #d40004;
+}
+
 
 /*--------------------------------------------------------------
 =>> Footer Section & Widgets
