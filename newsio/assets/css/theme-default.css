@@ -455,6 +455,9 @@ input[type="submit"]:focus {
 .sidebar .widget .wp-block-file .wp-block-file__button {
     background-color: #d40004;
 }
+.sidebar .widget .wp-block-media-text .wp-block-media-text__content a {
+	color: #d40004;
+} 
 
 
 /*--------------------------------------------------------------
