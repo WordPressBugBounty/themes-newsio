@@ -451,6 +451,12 @@ input[type="submit"]:focus {
     color: #d40004;
     text-decoration-color: #d40004;
 }
+/*wp block read more*/
+.wp-block-read-more, 
+.wp-block-read-more:hover, 
+.wp-block-read-more:focus {
+	color: #d40004;
+}
 /*Sidebar Update Released*/
 .sidebar .widget .wp-block-file .wp-block-file__button {
     background-color: #d40004;
