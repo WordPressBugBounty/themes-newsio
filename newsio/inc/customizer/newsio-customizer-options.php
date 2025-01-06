@@ -15,7 +15,7 @@ function newsio_customizer_theme_settings( $wp_customize ){
 		$wp_customize->add_setting( 'newsexo_footer_copright_text',
 		array(
 			'sanitize_callback' =>  'newsio_sanitize_text',
-			'default' => __('Copyright &copy; 2024 | Powered by <a href="//wordpress.org/">WordPress</a>', 'newsio'),
+			'default' => __('Copyright &copy; 2025 | Powered by <a href="//wordpress.org/">WordPress</a>', 'newsio'),
 			'transport' => $selective_refresh,
 		));	
 		$wp_customize->add_control( 'newsexo_footer_copright_text',
