@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.7
 Requires PHP: 5.6
-Stable tag: 2.6
-Version: 2.6
+Stable tag: 2.7
+Version: 2.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -71,6 +71,9 @@ https://pxhere.com/en/photo/1629722
 https://pxhere.com/en/photo/1377592
 
 == Changelog ==
+
+@Version 2.7
+* We added the default color of the wp-block-loginout link for the footer sidebar widgets area.
 
 @Version 2.6
 * We have updated the footer copyright content.

@@ -524,6 +524,9 @@ input[type="submit"]:focus {
 .footer-sidebar .widget .wp-block-file .wp-block-file__button {
     background-color: #d40004;
 }
+.footer-sidebar .widget .wp-block-loginout a {
+    color: #d40004;
+}
 
 
 /*--------------------------------------------------------------
