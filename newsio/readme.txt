@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.7
 Requires PHP: 5.6
-Stable tag: 2.8
-Version: 2.8
+Stable tag: 2.9
+Version: 2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -71,6 +71,9 @@ https://pxhere.com/en/photo/1629722
 https://pxhere.com/en/photo/1377592
 
 == Changelog ==
+
+@Version 2.9
+* We have fixed the .logged-in and .logged-out links color in the footer widget area.
 
 @Version 2.8
 * We did add the hover text color of the wp-block-latest-comments in the blog posts.
