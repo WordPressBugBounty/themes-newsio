@@ -477,6 +477,10 @@ input[type="submit"]:focus {
 .wp-block-latest-comments .wp-block-latest-comments__comment-meta .wp-block-latest-comments__comment-link:hover {
 	color: #d40004;
 }
+.wp-block-navigation .wp-block-navigation-item__content:hover, 
+.wp-block-navigation .wp-block-navigation-item__content:focus {
+	color: #d40004;
+}
 
 /*--------------------------------------------------------------
 =>> Footer Section & Widgets

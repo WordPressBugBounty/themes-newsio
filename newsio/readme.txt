@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.7.2
 Requires PHP: 5.6
-Stable tag: 3.4
-Version: 3.4
+Stable tag: 3.5
+Version: 3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -71,6 +71,9 @@ https://pxhere.com/en/photo/1629722
 https://pxhere.com/en/photo/1377592
 
 == Changelog ==
+
+@Version 3.5
+* We added the hover color of the wp-block-navigation link for the blog post area.
 
 @Version 3.4
 * We added the Read More button text setting for blog post area in the theme.
