@@ -50,7 +50,7 @@
 						<div class="entry-content">
 							<?php newsexo_posted_content(); ?>
 							<?php if (get_theme_mod('newsexo_blog_content','excerpt') == "excerpt") { ?>
-							<a href="<?php the_permalink();?>" class="more-link"><?php echo get_theme_mod('newsexo_read_more_button_text', __('Read More', 'newsio')); ?></a>
+							<a href="<?php the_permalink();?>" class="more-link"><?php echo esc_html(get_theme_mod('newsexo_read_more_button_text', __('Read More', 'newsio'))); ?></a>
 							<?php } ?>
 							<?php wp_link_pages( array( 'before' => '<div class="page-links">' . __( 'Pages:', 'newsio' ), 'after'  => '</div>', ) ); ?>
 						</div>
