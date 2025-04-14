@@ -481,6 +481,9 @@ input[type="submit"]:focus {
 .wp-block-navigation .wp-block-navigation-item__content:focus {
 	color: #d40004;
 }
+.sidebar .widget .textwidget a {
+	color: #d40004;
+}
 
 /*--------------------------------------------------------------
 =>> Footer Section & Widgets
