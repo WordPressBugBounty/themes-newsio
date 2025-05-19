@@ -4,8 +4,8 @@ Author: ThemeArile
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.8
 Requires PHP: 5.6
-Stable tag: 3.9
-Version: 3.9
+Stable tag: 4.0
+Version: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blog, news, photography, custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, rtl-language-support, one-column, two-columns, full-width-template, sticky-post, right-sidebar, footer-widgets, grid-layout
@@ -71,6 +71,9 @@ https://pxhere.com/en/photo/1629722
 https://pxhere.com/en/photo/1377592
 
 == Changelog ==
+
+@Version 4.0
+* We added the RTL language support in the theme.
 
 @Version 3.9
 * We added the top space of the wp-block-latest-posts__post-date in the wp-block-latest-posts in the blog post area.
