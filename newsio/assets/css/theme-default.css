@@ -477,6 +477,10 @@ input[type="submit"]:focus {
 .sidebar .widget .wp-block-embed .wp-element-caption a {
 	color: #d40004;
 } 
+.wp-block-latest-comments .wp-block-latest-comments__comment-meta .wp-block-latest-comments__comment-author, 
+.wp-block-latest-comments .wp-block-latest-comments__comment-meta .wp-block-latest-comments__comment-link {
+	color: #d40004;
+}
 .wp-block-latest-comments .wp-block-latest-comments__comment-meta .wp-block-latest-comments__comment-author:hover, 
 .wp-block-latest-comments .wp-block-latest-comments__comment-meta .wp-block-latest-comments__comment-link:hover {
 	color: #d40004;
